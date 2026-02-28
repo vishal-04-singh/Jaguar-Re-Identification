@@ -1,0 +1,29 @@
+# Dataset - too large for GitHub
+train/
+test/
+
+# Model weights
+*.pth
+
+# Large CSV files
+sample_submission.csv
+test.csv
+submission.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env/
